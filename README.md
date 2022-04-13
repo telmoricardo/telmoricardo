@@ -2,7 +2,7 @@
 
 - 💻  Formado em Analise e Desenvolvimento de Sistemas
 - 📚  Gosto de acompanhar as novas tecnologias do mercado
-- 🤓  Nas horas vagas gosta de desenhar, assistir filmes e séries
+- 🤓  Nas horas vagas gosto de desenhar, assistir filmes e séries
 - 🖱️  No Youtube acompanho as novidades sobre politica, hq, animes e miniaturas
 - 💡  Tenho 5 anos de experiência na área de programação
 - 📌  Mas estou na área  de tecnologia há mais de 15 anos.
